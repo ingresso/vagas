@@ -2,7 +2,7 @@
   <img src="./header-ingresso-com.jpg" alt="Ingresso.com" />
 </p>
 
-A Ingresso.com é uma empresa feita por pessoas APAIXONADAS por cinema!
+A [Ingresso.com](https://www.ingresso.com) é uma empresa feita por pessoas APAIXONADAS por cinema!
 
 Pioneira no Brasil no mercado de venda de ingressos online, nós da Ingresso.com sempre buscamos inovar em tecnologia e atender aos cinéfilos que buscam conteúdo sobre filmes e estreias. 
 
