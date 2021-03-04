@@ -7,7 +7,7 @@ A [Ingresso.com](https://www.ingresso.com) é uma empresa feita por pessoas APAI
 Pioneira no Brasil no mercado de venda de ingressos online, nós da Ingresso.com sempre buscamos inovar em tecnologia e atender aos cinéfilos que buscam conteúdo sobre filmes e estreias. 
 
 
-- 🎬 Nosso canal do YouTube é o maior canal de trailers do BRASIL. São mais de 1.5M de fãs de cinema!
+- 🎬 Nosso (canal do YouTube)[https://www.youtube.com/user/Ingressocom] é o maior canal de trailers do BRASIL. São mais de 1.5M de fãs de cinema!
 - 📲 Nosso aplicativo somou mais de 2M de downloads só no ano passado.
 
 
