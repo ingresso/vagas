@@ -13,4 +13,4 @@ Pioneira no Brasil no mercado de venda de ingressos online, nós da Ingresso.com
 
 E aí, deu match com a gente?
 
-Confira [as vagas abertas](https://ingressocom.gupy.io/) e vem ser um #INGLOVER!
+Confira [as vagas abertas](https://uol.gupy.io/) e vem ser um #INGLOVER!
